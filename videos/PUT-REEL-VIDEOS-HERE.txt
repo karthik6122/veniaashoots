@@ -1,0 +1,2 @@
+Each reel has a full video (reel-N.mp4) and an 8-second silent loop (reel-N-preview.mp4).
+Cover images are in the images folder (reel-N.jpg). See README.txt, section 2.
